@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <listeners>
+    <listener class-name="com.uiFramework.prive.slyaws.helper.listener.RetryListner"/>
+  </listeners>
+  <test thread-count="5" name="SecondTest(failed)">
+    <classes>
+      <class name="com.uiFramework.b">
+        <methods>
+          <include name="testLogin"/>
+        </methods>
+      </class> <!-- com.uiFramework.b -->
+    </classes>
+  </test> <!-- SecondTest(failed) -->
+  <test thread-count="5" name="ThirdTest(failed)">
+    <classes>
+      <class name="com.uiFramework.c">
+        <methods>
+          <include name="testLogin"/>
+        </methods>
+      </class> <!-- com.uiFramework.c -->
+    </classes>
+  </test> <!-- ThirdTest(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->

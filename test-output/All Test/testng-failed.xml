@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test]">
+  <test thread-count="5" name="LoginTestScenarios(failed)">
+    <classes>
+      <class name="com.uiFramework.prive.slyaws.testScripts.LoginTestScenarios">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="loginTest" invocation-numbers="2 3"/>
+          <include name="afterTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.uiFramework.prive.slyaws.testScripts.LoginTestScenarios -->
+    </classes>
+  </test> <!-- LoginTestScenarios(failed) -->
+</suite> <!-- Failed suite [All Test] -->

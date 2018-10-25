@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[captureScreen method called]]>
+    </line>
+    <line>
+      <![CDATA[<a href='D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\screenshots\blank_25_10_2018_08_22_50.png'><img src='D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\screenshots\blank_25_10_2018_08_22_50.png'height='100' width='100'/></a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66093" started-at="2018-10-25T14:51:46Z" finished-at="2018-10-25T14:52:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66093" started-at="2018-10-25T14:51:46Z" finished-at="2018-10-25T14:52:52Z">
+      <class name="com.uiFramework.prive.slyaws.testScripts.LoginTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.uiFramework.prive.slyaws.testScripts.LoginTest@65e2dbf3]" name="beforeSuite" is-config="true" duration-ms="142" started-at="2018-10-25T14:51:46Z" finished-at="2018-10-25T14:51:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.uiFramework.prive.slyaws.testScripts.LoginTest@65e2dbf3]" name="beforeTest" is-config="true" duration-ms="4939" started-at="2018-10-25T14:51:46Z" finished-at="2018-10-25T14:51:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.uiFramework.prive.slyaws.testScripts.LoginTest@65e2dbf3]" name="beforeMethod" is-config="true" duration-ms="8" started-at="2018-10-25T14:51:51Z" finished-at="2018-10-25T14:51:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.uiFramework.prive.slyaws.testScripts.LoginTest.testLoginToApplication()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testLoginToApplication()[pri:0, instance:com.uiFramework.prive.slyaws.testScripts.LoginTest@65e2dbf3]" name="testLoginToApplication" duration-ms="60179" started-at="2018-10-25T14:51:51Z" description="LoginTest with Valid Credential" finished-at="2018-10-25T14:52:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[captureScreen method called]]>
+            </line>
+            <line>
+              <![CDATA[<a href='D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\screenshots\blank_25_10_2018_08_22_50.png'><img src='D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\screenshots\blank_25_10_2018_08_22_50.png'height='100' width='100'/></a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testLoginToApplication -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.uiFramework.prive.slyaws.testScripts.LoginTest@65e2dbf3]" name="afterMethod" is-config="true" duration-ms="323" started-at="2018-10-25T14:52:51Z" finished-at="2018-10-25T14:52:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testLoginToApplication status=SUCCESS method=LoginTest.testLoginToApplication()[pri:0, instance:com.uiFramework.prive.slyaws.testScripts.LoginTest@65e2dbf3] output=captureScreen method called]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.uiFramework.prive.slyaws.testScripts.LoginTest@65e2dbf3]" name="afterTest" is-config="true" duration-ms="632" started-at="2018-10-25T14:52:51Z" finished-at="2018-10-25T14:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.uiFramework.prive.slyaws.testScripts.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

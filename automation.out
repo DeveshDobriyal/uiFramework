@@ -1,0 +1,1353 @@
+2018-09-23 05:43:24 INFO  LoggerHelper:24 - Logger is configured
+2018-09-23 05:43:24 INFO  LoggerHelper:25 - Logger is configured
+2018-09-23 05:43:24 INFO  LoggerHelper:26 - Logger is configured
+2018-09-23 05:51:23 INFO  LoggerHelper:27 - Logger is configured
+2018-09-23 05:51:23 INFO  LoggerHelper:28 - Logger is configured
+2018-09-23 05:51:23 INFO  LoggerHelper:29 - Logger is configured
+2018-09-25 23:27:44 INFO  Retry:27 - Retrying teststestLoginwith statusFAILUREFor the1times
+2018-09-25 23:27:44 INFO  Retry:27 - Retrying teststestLoginwith statusFAILUREFor the2times
+2018-09-25 23:27:44 INFO  Retry:27 - Retrying teststestLoginwith statusFAILUREFor the3times
+2018-09-25 23:27:44 INFO  Retry:27 - Retrying teststestLoginwith statusFAILUREFor the1times
+2018-09-25 23:27:44 INFO  Retry:27 - Retrying teststestLoginwith statusFAILUREFor the2times
+2018-09-25 23:27:44 INFO  Retry:27 - Retrying teststestLoginwith statusFAILUREFor the3times
+2018-10-11 16:22:27 INFO  TestBase:128 - The driver executable does not exist: D:\eclipse_work_space\uiFrameworksrc\main\resources\drivers\chromedriver.exe
+2018-10-11 16:26:25 INFO  TestBase:128 - Timed out waiting for driver server to start.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-K8QA0IJ', ip: '192.168.1.246', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: ChromeDriver
+2018-10-11 16:27:46 INFO  TestBase:128 - Timed out waiting for driver server to start.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-K8QA0IJ', ip: '192.168.1.246', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: ChromeDriver
+2018-10-11 16:32:46 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 16:32:46 INFO  WaitHelper:32 - Implicit wait time set to :120
+2018-10-11 16:32:46 INFO  WaitHelper:101 - waiting for a page to load for :SECONDS
+2018-10-11 16:32:46 INFO  WaitHelper:103 - Page is loaded
+2018-10-11 16:32:47 INFO  TestBase:76 - **************testLoginStarted***************
+2018-10-11 16:32:47 INFO  AssertionHelper:20 - making script pass intentionally
+2018-10-11 16:32:47 INFO  TestBase:94 - **************testLoginFinished***************
+2018-10-11 16:32:47 INFO  TestBase:76 - **************testLogin3Started***************
+2018-10-11 16:32:47 INFO  AssertionHelper:30 - making script fail intentionally
+2018-10-11 16:32:48 INFO  TestBase:94 - **************testLogin3Finished***************
+2018-10-11 16:32:48 INFO  TestBase:76 - **************testLogin1Started***************
+2018-10-11 16:32:48 INFO  AssertionHelper:30 - making script fail intentionally
+2018-10-11 16:32:48 INFO  TestBase:94 - **************testLogin1Finished***************
+2018-10-11 16:32:48 INFO  TestBase:76 - **************testLogin2Started***************
+2018-10-11 16:32:48 INFO  AssertionHelper:20 - making script pass intentionally
+2018-10-11 16:32:48 INFO  TestBase:94 - **************testLogin2Finished***************
+2018-10-11 16:43:05 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 16:43:05 INFO  WaitHelper:32 - Implicit wait time set to :120
+2018-10-11 16:43:05 INFO  WaitHelper:101 - waiting for a page to load for :SECONDS
+2018-10-11 16:43:05 INFO  WaitHelper:103 - Page is loaded
+2018-10-11 16:43:06 INFO  TestBase:76 - **************testLoginStarted***************
+2018-10-11 16:43:06 INFO  AssertionHelper:20 - making script pass intentionally
+2018-10-11 16:43:06 INFO  TestBase:94 - **************testLoginFinished***************
+2018-10-11 16:43:06 INFO  TestBase:76 - **************testLogin3Started***************
+2018-10-11 16:43:06 INFO  AssertionHelper:30 - making script fail intentionally
+2018-10-11 16:43:07 INFO  TestBase:94 - **************testLogin3Finished***************
+2018-10-11 16:43:07 INFO  TestBase:76 - **************testLogin1Started***************
+2018-10-11 16:43:07 INFO  AssertionHelper:30 - making script fail intentionally
+2018-10-11 16:43:07 INFO  TestBase:94 - **************testLogin1Finished***************
+2018-10-11 16:43:07 INFO  TestBase:76 - **************testLogin2Started***************
+2018-10-11 16:43:07 INFO  AssertionHelper:20 - making script pass intentionally
+2018-10-11 16:43:07 INFO  TestBase:94 - **************testLogin2Finished***************
+2018-10-11 16:44:36 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 16:44:36 INFO  WaitHelper:32 - Implicit wait time set to :120
+2018-10-11 16:44:36 INFO  WaitHelper:101 - waiting for a page to load for :SECONDS
+2018-10-11 16:44:36 INFO  WaitHelper:103 - Page is loaded
+2018-10-11 16:44:37 INFO  TestBase:76 - **************testLoginStarted***************
+2018-10-11 16:44:37 INFO  AssertionHelper:20 - making script pass intentionally
+2018-10-11 16:44:37 INFO  TestBase:94 - **************testLoginFinished***************
+2018-10-11 16:44:37 INFO  TestBase:76 - **************testLogin3Started***************
+2018-10-11 16:44:37 INFO  AssertionHelper:30 - making script fail intentionally
+2018-10-11 16:44:37 INFO  TestBase:94 - **************testLogin3Finished***************
+2018-10-11 16:44:37 INFO  TestBase:76 - **************testLogin1Started***************
+2018-10-11 16:44:37 INFO  AssertionHelper:30 - making script fail intentionally
+2018-10-11 16:44:38 INFO  TestBase:94 - **************testLogin1Finished***************
+2018-10-11 16:44:38 INFO  TestBase:76 - **************testLogin2Started***************
+2018-10-11 16:44:38 INFO  AssertionHelper:20 - making script pass intentionally
+2018-10-11 16:44:38 INFO  TestBase:94 - **************testLogin2Finished***************
+2018-10-11 16:46:58 INFO  TestBase:135 - Initialize Web driver: 1197251633
+2018-10-11 16:46:58 INFO  WaitHelper:32 - Implicit wait time set to :120
+2018-10-11 16:46:58 INFO  WaitHelper:101 - waiting for a page to load for :SECONDS
+2018-10-11 16:46:58 INFO  WaitHelper:103 - Page is loaded
+2018-10-11 16:46:59 INFO  TestBase:76 - **************testLogin4Started***************
+2018-10-11 16:46:59 INFO  AssertionHelper:30 - making script fail intentionally
+2018-10-11 16:46:59 INFO  TestBase:94 - **************testLogin4Finished***************
+2018-10-11 16:49:02 INFO  TestBase:135 - Initialize Web driver: 1197251633
+2018-10-11 16:49:02 INFO  WaitHelper:32 - Implicit wait time set to :120
+2018-10-11 16:49:02 INFO  WaitHelper:101 - waiting for a page to load for :SECONDS
+2018-10-11 16:49:02 INFO  WaitHelper:103 - Page is loaded
+2018-10-11 16:49:03 INFO  TestBase:76 - **************testLogin4Started***************
+2018-10-11 16:49:03 INFO  AssertionHelper:30 - making script fail intentionally
+2018-10-11 16:49:03 INFO  TestBase:94 - **************testLogin4Finished***************
+2018-10-11 16:58:02 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 16:58:02 INFO  WaitHelper:32 - Implicit wait time set to :120
+2018-10-11 16:58:02 INFO  WaitHelper:101 - waiting for a page to load for :SECONDS
+2018-10-11 16:58:02 INFO  WaitHelper:103 - Page is loaded
+2018-10-11 16:58:04 INFO  TestBase:76 - **************testLogin1Started***************
+2018-10-11 16:58:04 INFO  AssertionHelper:20 - making script pass intentionally
+2018-10-11 16:58:04 INFO  TestBase:94 - **************testLogin1Finished***************
+2018-10-11 16:58:04 INFO  TestBase:76 - **************testLogin2Started***************
+2018-10-11 16:58:04 INFO  AssertionHelper:20 - making script pass intentionally
+2018-10-11 16:58:04 INFO  TestBase:94 - **************testLogin2Finished***************
+2018-10-11 16:58:04 INFO  TestBase:76 - **************testLogin3Started***************
+2018-10-11 16:58:04 INFO  AssertionHelper:20 - making script pass intentionally
+2018-10-11 16:58:04 INFO  TestBase:94 - **************testLogin3Finished***************
+2018-10-11 16:58:04 INFO  TestBase:76 - **************testLogin4Started***************
+2018-10-11 16:58:04 INFO  AssertionHelper:20 - making script pass intentionally
+2018-10-11 16:58:04 INFO  TestBase:94 - **************testLogin4Finished***************
+2018-10-11 19:30:01 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 19:30:01 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:30:01 INFO  WaitHelper:33 - Implicit wait time set to :120
+2018-10-11 19:30:01 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-11 19:30:01 INFO  WaitHelper:104 - Page is loaded
+2018-10-11 19:30:02 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-11 19:30:10 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:34:31 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 19:34:31 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:34:31 INFO  WaitHelper:33 - Implicit wait time set to :120
+2018-10-11 19:34:31 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-11 19:34:31 INFO  WaitHelper:104 - Page is loaded
+2018-10-11 19:34:32 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-11 19:34:45 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:34:52 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (0a30f79c569c993b19fb799ee0d0e13c)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:200
+2018-10-11 19:34:53 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-11 19:36:27 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 19:36:27 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:36:27 INFO  WaitHelper:33 - Implicit wait time set to :500
+2018-10-11 19:36:27 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-11 19:36:27 INFO  WaitHelper:104 - Page is loaded
+2018-10-11 19:36:28 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-11 19:36:39 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:36:47 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (e9d7305b44c26051bca4d060150244b5)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:500
+2018-10-11 19:36:47 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-11 19:38:33 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 19:38:33 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:38:33 INFO  WaitHelper:33 - Implicit wait time set to :1000
+2018-10-11 19:38:33 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-11 19:38:33 INFO  WaitHelper:104 - Page is loaded
+2018-10-11 19:38:34 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-11 19:38:48 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:38:55 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (6b340a133ef71152e5de18d7ec22b71b)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:1000
+2018-10-11 19:38:56 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-11 19:41:26 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 19:41:26 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:41:26 INFO  WaitHelper:33 - Implicit wait time set to :1000
+2018-10-11 19:41:26 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-11 19:41:26 INFO  WaitHelper:104 - Page is loaded
+2018-10-11 19:41:28 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-11 19:41:39 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:41:47 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (04dbac43d93a1f1960035b4819668b26)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:1000
+2018-10-11 19:41:47 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-11 19:48:11 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 19:48:11 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:48:11 INFO  WaitHelper:33 - Implicit wait time set to :1000
+2018-10-11 19:48:11 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-11 19:48:11 INFO  WaitHelper:104 - Page is loaded
+2018-10-11 19:48:12 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-11 19:48:27 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:48:35 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (a7cc35f37a79c3214edeaaa786b30499)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:1000
+2018-10-11 19:48:35 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-11 19:56:38 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 19:56:38 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:56:38 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-11 19:56:38 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-11 19:56:38 INFO  WaitHelper:104 - Page is loaded
+2018-10-11 19:56:39 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-11 19:56:56 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 19:57:10 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (87b2279e15f89a5b7dd1d730dc389bf1)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:2000
+2018-10-11 19:57:10 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-11 20:01:39 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-11 20:01:39 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 20:01:39 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-11 20:01:39 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-11 20:01:39 INFO  WaitHelper:104 - Page is loaded
+2018-10-11 20:01:40 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-11 20:02:03 INFO  WaitHelper:29 - wait helper obj created
+2018-10-11 20:02:11 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (7b5dc7c9ff1dd8585566f5b6753f0fb5)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:2000
+2018-10-11 20:02:11 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-12 03:29:24 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-12 03:29:24 INFO  WaitHelper:29 - wait helper obj created
+2018-10-12 03:29:24 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-12 03:29:24 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-12 03:29:24 INFO  WaitHelper:104 - Page is loaded
+2018-10-12 03:29:25 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-12 03:29:47 INFO  WaitHelper:29 - wait helper obj created
+2018-10-12 03:30:09 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (4eaf2a1ecce6ca6ed01857e7edd5c01e)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:2000
+2018-10-12 03:30:10 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-12 14:17:32 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-12 14:17:33 INFO  WaitHelper:29 - wait helper obj created
+2018-10-12 14:17:33 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-12 14:17:33 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-12 14:17:33 INFO  WaitHelper:104 - Page is loaded
+2018-10-12 14:17:34 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-12 14:17:45 INFO  WaitHelper:29 - wait helper obj created
+2018-10-12 14:17:57 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (09ae37588a67fbc7cdaa09986f6cb681)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:2000
+2018-10-12 14:17:57 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 01:19:46 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-13 01:19:46 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 01:19:46 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-13 01:19:46 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 01:19:46 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 01:19:47 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 01:20:30 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 01:21:11 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (f90503e436d77445c36c3e54b7b16391)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:2000
+2018-10-13 01:21:11 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 01:26:42 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-13 01:26:42 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 01:26:42 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-13 01:26:42 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 01:26:42 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 01:26:43 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 01:27:36 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 01:28:04 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (f3a2effe87c25a2529c3b091af6dc5b2)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:2000
+2018-10-13 01:28:05 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 01:30:36 INFO  TestBase:135 - Initialize Web driver: 1198817209
+2018-10-13 01:30:36 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 01:30:36 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-13 01:30:36 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 01:30:36 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 01:30:37 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 01:31:45 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 01:32:00 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (edccd87d47143626c8d3081c731c082b)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:2000
+2018-10-13 01:32:20 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 02:07:31 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-13 02:07:31 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:07:31 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-13 02:07:31 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 02:07:31 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 02:07:32 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 02:08:12 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:08:34 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (508d3837454b581db925a24632990edd)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:2000
+2018-10-13 02:08:35 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 02:11:59 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-13 02:11:59 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:11:59 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-13 02:11:59 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 02:11:59 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 02:12:00 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 02:12:45 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:13:13 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (dedd2a3faf5731175be450e9a1171d40)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for SEC:2000
+2018-10-13 02:13:14 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 02:15:19 INFO  TestBase:135 - Initialize Web driver: 1198817209
+2018-10-13 02:15:19 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:15:19 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-13 02:15:19 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 02:15:19 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 02:15:20 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 02:16:14 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:18:25 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:18:26 INFO  WaitHelper:108 - waiting for element to load for :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="gwt-debug-UserLoginView-loginButton' for SEC:2000
+2018-10-13 02:19:54 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 02:20:17 INFO  TestBase:135 - Initialize Web driver: 1198817209
+2018-10-13 02:20:17 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:20:17 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-13 02:20:17 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 02:20:17 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 02:20:18 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 02:21:25 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:24:08 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:24:10 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (b44164d9ea14cadcc3724d009d4d2b32)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for SEC:2000
+2018-10-13 02:28:36 INFO  TestBase:135 - Initialize Web driver: 1198817209
+2018-10-13 02:28:36 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:28:36 INFO  WaitHelper:33 - Implicit wait time set to :2000
+2018-10-13 02:28:36 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 02:28:36 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 02:28:37 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 02:29:50 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:31:09 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (8aafa04877bf0eaffe6d454a059a2ce3)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for SEC:2000
+2018-10-13 02:31:24 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 02:36:27 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-13 02:36:27 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:36:27 INFO  WaitHelper:33 - Implicit wait time set to :8000
+2018-10-13 02:36:27 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 02:36:27 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 02:36:28 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 02:37:01 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:37:20 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (c71b3485d7f4dff651ab68c1bb3f22ec)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for SEC:8000
+2018-10-13 02:37:21 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 02:39:04 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-13 02:39:04 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:39:04 INFO  WaitHelper:33 - Implicit wait time set to :8000
+2018-10-13 02:39:04 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 02:39:04 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 02:39:05 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 02:39:44 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:40:14 INFO  WaitHelper:108 - waiting for element to load for :[[ChromeDriver: chrome on XP (c6c8838df191f16c439fab8ef3cf6aaa)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for SEC:8000
+2018-10-13 02:40:14 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 02:51:00 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-13 02:51:00 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:51:00 INFO  WaitHelper:33 - Implicit wait time set to :8000
+2018-10-13 02:51:00 INFO  WaitHelper:102 - waiting for a page to load for :SECONDS
+2018-10-13 02:51:00 INFO  WaitHelper:104 - Page is loaded
+2018-10-13 02:51:01 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 02:51:37 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 02:52:05 INFO  WaitHelper:108 - Waiting for:[[ChromeDriver: chrome on XP (343f3669d336f7499a58628db28ee7a9)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for:8000Seconds
+2018-10-13 02:52:06 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 03:04:27 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-13 03:04:27 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 03:04:27 INFO  WaitHelper:33 - Implicit wait time set to :8000
+2018-10-13 03:04:27 INFO  WaitHelper:110 - waiting for a page to load for :SECONDS
+2018-10-13 03:04:27 INFO  WaitHelper:112 - Page is loaded
+2018-10-13 03:04:28 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 03:05:08 INFO  WaitHelper:29 - wait helper obj created
+2018-10-13 03:05:08 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 03:35:32 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-13 03:35:32 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-13 03:35:32 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-13 03:35:32 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-13 03:35:32 INFO  WaitHelper:144 - Page is loaded
+2018-10-13 03:35:33 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 03:36:09 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-13 03:36:22 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (1c7b766bb7f7130269d582e4fcc6441d)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-13 03:36:23 INFO  WaitHelper:156 - element is visible now
+2018-10-13 03:36:23 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-13 03:36:23 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-13 03:36:23 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-13 03:37:56 INFO  TestBase:135 - Initialize Web driver: 1198817209
+2018-10-13 03:37:56 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-13 03:37:56 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-13 03:37:56 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-13 03:37:56 INFO  WaitHelper:144 - Page is loaded
+2018-10-13 03:37:57 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-13 03:39:13 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-13 03:39:26 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (a5eca4904d6a367f9051978474ee1c5c)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-13 03:39:26 INFO  WaitHelper:156 - element is visible now
+2018-10-13 03:39:36 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-13 03:39:36 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-13 03:39:55 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-14 18:30:59 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-14 18:30:59 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-14 18:30:59 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-14 18:30:59 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-14 18:30:59 INFO  WaitHelper:144 - Page is loaded
+2018-10-14 18:31:00 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-14 18:31:22 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-14 20:04:22 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-14 20:04:22 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-14 20:04:22 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-14 20:04:22 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-14 20:04:22 INFO  WaitHelper:144 - Page is loaded
+2018-10-14 20:04:24 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-14 20:04:45 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 13:35:31 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 13:35:31 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 13:35:31 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 13:35:31 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 13:35:31 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 13:35:32 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 13:35:50 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 13:35:57 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6583cbddcf933e6004b5fcab0fdea352)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 13:35:57 INFO  WaitHelper:156 - element is visible now
+2018-10-15 13:35:57 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 13:35:57 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 13:35:58 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 13:36:30 INFO  TestBase:135 - Initialize Web driver: 1198817209
+2018-10-15 13:36:30 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 13:36:30 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 13:36:30 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 13:36:30 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 13:36:31 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 13:37:41 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 13:37:50 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (18d12fc85b99501c1917d1d70331809f)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 13:37:50 INFO  WaitHelper:156 - element is visible now
+2018-10-15 13:38:10 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 13:38:10 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 13:38:42 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 15:59:22 INFO  TestBase:135 - Initialize Web driver: 1198817209
+2018-10-15 15:59:22 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 15:59:22 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 15:59:22 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 15:59:22 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 15:59:23 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 20:21:59 INFO  TestBase:135 - Initialize Web driver: 1198817209
+2018-10-15 20:21:59 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 20:21:59 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 20:21:59 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 20:21:59 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 20:22:00 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 20:22:22 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 20:22:23 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (0e11e4e4ae5b0cfe684e2a88a189f5e8)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 20:22:23 INFO  WaitHelper:156 - element is visible now
+2018-10-15 20:22:26 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 20:22:26 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 20:22:36 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 20:24:53 INFO  TestBase:135 - Initialize Web driver: 1198817209
+2018-10-15 20:24:53 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 20:24:53 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 20:24:53 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 20:24:53 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 20:25:34 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 20:26:09 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 20:26:21 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (417a9ec7866481ff27f9062a1f0533a1)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 20:26:21 INFO  WaitHelper:156 - element is visible now
+2018-10-15 20:26:25 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 20:26:25 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 20:28:49 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 20:56:57 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 20:56:57 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 20:56:57 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 20:56:57 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 20:56:57 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 20:56:58 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 20:57:18 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 20:57:39 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (88cf0205ee7bc169e1ad0fcfbc672745)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 20:57:39 INFO  WaitHelper:156 - element is visible now
+2018-10-15 20:57:39 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 20:57:39 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 20:57:40 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 21:07:56 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 21:07:56 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 21:07:56 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 21:07:56 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 21:07:56 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 21:07:58 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 21:08:16 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 21:08:26 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (c71f14b614bc8ecb91adee433046a590)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 21:08:26 INFO  WaitHelper:156 - element is visible now
+2018-10-15 21:08:26 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 21:08:26 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 21:08:26 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 21:33:37 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 21:33:37 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 21:33:37 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 21:33:37 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 21:33:37 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 21:33:38 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 21:33:53 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 21:34:11 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (9336db57e9ead5973a463033a3215be3)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 21:34:11 INFO  WaitHelper:156 - element is visible now
+2018-10-15 21:34:11 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 21:34:11 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 21:34:11 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 21:37:03 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 21:37:03 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 21:37:03 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 21:37:03 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 21:37:03 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 21:37:04 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 21:37:16 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 21:37:26 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (76e639a763102d293810b9b4a0ecca27)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 21:37:26 INFO  WaitHelper:156 - element is visible now
+2018-10-15 21:37:26 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 21:37:26 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 21:37:27 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 21:59:04 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 21:59:04 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 21:59:04 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 21:59:04 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 21:59:04 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 21:59:05 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 21:59:24 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 21:59:31 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (1f82f5e4c4685eb4be61778c46785f8b)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 21:59:31 INFO  WaitHelper:156 - element is visible now
+2018-10-15 21:59:31 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 21:59:33 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 22:00:44 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 22:00:44 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:00:44 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 22:00:44 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 22:00:44 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 22:00:45 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 22:01:25 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:01:33 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (36bd1f21e8c575fbac1a092539fca4eb)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 22:01:33 INFO  WaitHelper:156 - element is visible now
+2018-10-15 22:01:33 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 22:01:34 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 22:07:47 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 22:07:47 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:07:47 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 22:07:48 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 22:07:48 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 22:07:49 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 22:08:56 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 22:08:56 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:08:56 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 22:08:56 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 22:08:56 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 22:08:58 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 22:10:17 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:10:56 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (68354c120ed6c265da60beaf14992daa)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 22:10:56 INFO  WaitHelper:156 - element is visible now
+2018-10-15 22:10:56 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 22:10:57 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 22:12:41 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 22:12:41 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:12:41 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 22:12:41 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 22:12:41 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 22:12:42 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 22:13:15 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:13:31 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (60f25444f06a78dd3c5fc6e9ae9eb728)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 22:13:31 INFO  WaitHelper:156 - element is visible now
+2018-10-15 22:13:31 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 22:13:32 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 22:16:56 INFO  TestBase:135 - Initialize Web driver: 1424788681
+2018-10-15 22:16:57 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:16:57 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 22:16:57 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 22:16:57 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 22:17:39 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 22:20:21 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:20:29 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (0cbd65d6447a3344c88eb5e2237f8479)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 22:20:29 INFO  WaitHelper:156 - element is visible now
+2018-10-15 22:20:34 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 22:22:59 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 22:22:59 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-15 22:23:26 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 22:24:24 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 22:24:24 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:24:24 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 22:24:24 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 22:24:24 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 22:24:25 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 22:25:10 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:25:46 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (0d5990f39d02a05364c734fe93e64553)] -> css selector: #gwt-debug-UserLoginView-emailAddress] for :8000 seconds
+2018-10-15 22:25:46 INFO  WaitHelper:156 - element is visible now
+2018-10-15 22:25:46 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 22:25:47 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 22:25:47 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-15 22:25:47 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 22:28:29 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 22:28:29 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:28:29 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 22:28:29 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 22:28:29 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 22:28:30 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 22:29:15 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:29:41 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6f1afdcb98f231bb0a6a19788e7783ea)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-15 22:29:41 INFO  WaitHelper:156 - element is visible now
+2018-10-15 22:29:41 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 22:29:42 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-15 22:29:42 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-15 22:29:43 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-15 22:31:03 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-15 22:31:04 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:31:04 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-15 22:31:04 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-15 22:31:04 INFO  WaitHelper:144 - Page is loaded
+2018-10-15 22:31:05 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-15 22:31:50 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-15 22:32:30 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (5a9cfe0636fb083ac86623fbd870418c)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-15 22:32:30 INFO  WaitHelper:156 - element is visible now
+2018-10-15 22:32:30 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-15 22:32:32 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-15 22:32:32 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-16 06:38:59 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-16 06:38:59 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 06:38:59 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 06:38:59 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 06:38:59 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 06:39:00 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 06:39:18 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 06:39:30 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (9ea1a40a5f31275c6865a06fda77dd05)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 06:39:30 INFO  WaitHelper:156 - element is visible now
+2018-10-16 06:39:30 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 06:39:32 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 06:39:32 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-16 07:05:20 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-16 07:05:20 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 07:05:20 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 07:05:20 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 07:05:20 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 07:05:21 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 07:05:42 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 07:05:58 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (4b0f7485d3995ff8aa943fed700daec9)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 07:05:58 INFO  WaitHelper:156 - element is visible now
+2018-10-16 07:05:58 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 07:06:00 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 07:06:00 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-16 07:34:27 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-16 07:34:27 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 07:34:27 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 07:34:27 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 07:34:27 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 07:34:28 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 07:34:35 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 08:36:31 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-16 08:36:31 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 08:36:31 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 08:36:31 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 08:36:32 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 08:36:33 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 08:36:54 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 08:37:59 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (732adda98d47b027befb02b8ef02655d)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 08:37:59 INFO  WaitHelper:156 - element is visible now
+2018-10-16 08:37:59 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 08:38:00 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 08:38:00 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-16 10:40:44 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 10:40:44 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 10:40:44 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 10:40:44 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 10:40:44 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 10:41:11 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestDatatestData.xlsx
+2018-10-16 10:43:07 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 10:43:07 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 10:43:07 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 10:43:07 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 10:43:07 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 10:43:30 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 11:12:21 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-16 11:12:21 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:12:21 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:12:21 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:12:21 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:12:22 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 11:12:36 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:12:43 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (3126c272edc054f4234848e2e1410980)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:12:43 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:12:43 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:12:44 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:12:44 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-16 11:13:10 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-16 11:13:10 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:13:10 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:13:10 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:13:10 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:13:11 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 11:13:24 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:13:31 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (5100781cbae7fc0e401e105b9b847d77)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:13:31 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:13:31 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:13:32 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:13:32 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-16 11:13:46 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-16 11:13:46 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:13:46 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:13:46 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:13:46 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:13:47 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 11:13:58 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:14:06 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (8ca2d7036d7a8d25e5d4096c80e61ee8)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:14:06 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:14:06 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:14:07 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:14:07 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-16 11:15:16 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 11:15:16 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:15:16 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:15:16 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:15:16 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:15:29 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 11:22:06 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 11:22:06 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:22:06 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:22:06 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:22:06 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:22:20 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:22:28 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (d4bedd8139cdad99220294813cbafa0c)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:22:28 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:22:28 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:22:28 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 11:22:28 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:22:29 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:22:29 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:22:29 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:22:30 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:22:30 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:22:30 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:22:30 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:22:30 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:28:29 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 11:28:29 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:28:29 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:28:29 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:28:29 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:29:03 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:29:21 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6d93025a3927bd97bf6b9f4402f147d8)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:29:21 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:29:21 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:29:21 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 11:29:22 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:29:22 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:29:22 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6d93025a3927bd97bf6b9f4402f147d8)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:29:22 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:29:22 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:29:22 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:29:22 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6d93025a3927bd97bf6b9f4402f147d8)] -> xpath: /html/body] for :8000 seconds
+2018-10-16 11:29:22 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:29:22 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:29:23 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:29:23 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:29:23 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6d93025a3927bd97bf6b9f4402f147d8)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:29:23 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:29:23 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:29:24 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:29:24 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:29:24 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:29:24 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6d93025a3927bd97bf6b9f4402f147d8)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:29:24 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:29:24 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:29:25 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:29:25 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:29:25 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:30:48 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 11:30:48 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:30:48 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:30:48 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:30:48 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:31:19 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:31:31 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (0cbdead5e63da9fd817d73b0068bf721)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:31:31 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:31:31 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:31:31 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 11:31:32 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:31:32 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:31:32 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (0cbdead5e63da9fd817d73b0068bf721)] -> xpath: /html/body] for :8000 seconds
+2018-10-16 11:31:32 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:31:32 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:31:32 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:31:33 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:31:33 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:31:33 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:31:33 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:31:33 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:32:56 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 11:32:56 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:32:56 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:32:56 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:32:56 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:33:12 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:33:20 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (e18498a37b2609977ddeb7d455001c2d)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:33:20 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:33:20 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:33:21 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 11:33:21 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:33:22 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:33:22 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (e18498a37b2609977ddeb7d455001c2d)] -> xpath: /html/body] for :8000 seconds
+2018-10-16 11:33:22 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:33:22 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:33:22 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:33:22 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:33:22 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:33:23 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:33:23 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:33:23 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:37:59 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 11:37:59 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:37:59 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:37:59 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:37:59 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:38:17 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:38:27 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (f1994fd9921bc4092b7adae7b26a6831)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:38:27 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:38:27 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:38:27 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 11:38:28 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:38:28 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:38:28 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (f1994fd9921bc4092b7adae7b26a6831)] -> xpath: /html/body] for :8000 seconds
+2018-10-16 11:38:28 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:38:28 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:38:28 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:38:29 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:38:29 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:38:30 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:38:30 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:38:30 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:40:42 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 11:40:42 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:40:42 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:40:42 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:40:42 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:40:57 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:41:05 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (7ad888f97d877bed2601af60899ddfb3)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:41:05 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:41:05 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:41:06 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 11:41:06 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:41:07 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:41:07 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (7ad888f97d877bed2601af60899ddfb3)] -> xpath: /html/body] for :8000 seconds
+2018-10-16 11:41:07 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:41:07 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:41:07 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:41:07 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:41:07 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:41:08 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:41:08 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:41:08 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:51:58 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 11:51:58 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:51:58 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:51:58 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:51:58 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:52:11 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:52:18 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (13769cc1102c8de2338304161d54f813)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:52:18 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:52:18 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:52:18 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 11:52:19 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:52:19 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:52:20 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:52:20 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:52:20 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:52:20 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:52:21 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:52:21 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:52:21 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:54:10 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 11:54:10 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:54:10 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 11:54:10 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 11:54:10 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 11:54:33 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 11:54:41 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (406501a77c8e0be80a066f34e48cae1e)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 11:54:41 INFO  WaitHelper:156 - element is visible now
+2018-10-16 11:54:41 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 11:54:42 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 11:54:42 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:54:43 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 11:54:43 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:54:43 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:54:44 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:54:44 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:54:44 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 11:54:44 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 11:54:44 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:00:07 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 12:00:07 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 12:00:07 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 12:00:07 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 12:00:07 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 12:00:22 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 12:00:30 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (f41462244ee8554ab6c69824d9226901)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 12:00:30 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:00:30 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 12:00:30 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 12:00:31 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:00:31 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 12:00:31 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (f41462244ee8554ab6c69824d9226901)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 12:00:45 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:00:46 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:00:46 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:00:53 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 12:00:53 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (f41462244ee8554ab6c69824d9226901)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 12:00:53 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:00:54 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:00:54 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:04:30 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 12:04:30 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 12:04:30 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 12:04:30 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 12:04:30 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 12:04:42 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 12:04:51 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (2e3779e8c591351013fb0986fd886e03)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 12:04:51 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:04:51 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 12:04:52 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 12:04:52 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:04:52 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 12:04:52 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (2e3779e8c591351013fb0986fd886e03)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 12:05:07 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:05:07 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:05:07 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:05:14 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 12:05:14 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (2e3779e8c591351013fb0986fd886e03)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 12:05:14 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:05:15 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:05:15 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:05:42 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 12:05:43 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (2e3779e8c591351013fb0986fd886e03)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 12:05:43 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:05:43 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:05:44 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:05:44 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:05:55 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 12:05:55 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 12:05:55 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 12:05:55 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 12:05:55 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 12:06:13 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 12:06:26 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (cf1573b9afcacb584a423fdb7bc7b800)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 12:06:26 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:06:26 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 12:06:26 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 12:06:27 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:06:27 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (cf1573b9afcacb584a423fdb7bc7b800)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 12:06:45 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:06:45 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:06:45 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:06:55 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (cf1573b9afcacb584a423fdb7bc7b800)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 12:06:56 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:06:56 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:06:56 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:07:02 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (cf1573b9afcacb584a423fdb7bc7b800)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 12:07:04 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:07:04 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:07:04 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:07:04 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:50:01 INFO  TestBase:135 - Initialize Web driver: 1783568981
+2018-10-16 12:50:01 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 12:50:01 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 12:50:01 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 12:50:01 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 12:50:02 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 12:50:10 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 12:51:01 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (0822a5ad689441f43442ac88c28bf2d9)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 12:51:01 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:51:01 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 12:51:02 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 12:51:02 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 12:51:02 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-16 12:51:05 INFO  TestBase:135 - Initialize Web driver: 1638435724
+2018-10-16 12:51:05 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 12:51:05 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 12:51:05 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 12:51:05 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 12:51:37 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 12:51:48 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (4325059caee4e59553e5c3c0e7b537c3)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 12:51:48 INFO  WaitHelper:156 - element is visible now
+2018-10-16 12:51:48 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 12:51:48 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 12:51:48 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:51:49 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 12:51:49 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 12:51:49 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:51:49 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:51:49 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 12:51:49 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 12:51:50 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:51:50 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:51:50 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 12:51:50 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 12:51:50 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 12:51:50 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 12:51:50 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:29:41 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 13:29:41 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 13:29:41 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 13:29:41 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 13:29:41 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 13:30:24 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 13:30:44 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (2cceb7db742ce1e8df79c92f7ca390a2)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 13:30:44 INFO  WaitHelper:156 - element is visible now
+2018-10-16 13:30:44 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 13:30:45 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 13:30:46 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:30:46 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 13:30:46 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 13:30:47 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:30:47 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:30:48 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 13:30:48 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 13:30:48 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:30:48 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:30:49 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 13:30:49 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 13:30:49 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:30:49 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:30:49 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:36:27 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 13:36:27 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 13:36:27 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 13:36:27 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 13:36:27 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 13:36:57 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 13:36:57 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 13:39:48 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 13:39:48 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 13:39:48 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 13:39:48 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 13:39:48 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 13:40:18 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 13:40:28 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (f53ccfec1d6ea341be7b70bc40a3049d)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 13:40:28 INFO  WaitHelper:156 - element is visible now
+2018-10-16 13:40:28 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 13:40:29 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 13:40:30 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:40:30 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 13:40:30 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 13:40:31 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:40:31 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:40:32 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 13:40:32 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 13:40:32 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:40:32 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:40:33 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 13:40:33 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 13:40:33 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:40:33 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:40:33 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:52:30 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 13:52:30 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 13:52:30 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 13:52:30 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 13:52:30 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 13:52:53 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 13:53:14 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (8714ec2d2319a83c41f942bab6208e09)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 13:53:14 INFO  WaitHelper:156 - element is visible now
+2018-10-16 13:53:14 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 13:53:15 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 13:53:16 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:53:16 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 13:53:16 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 13:53:17 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:53:17 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:53:18 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 13:53:18 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 13:53:18 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:53:19 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:53:19 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 13:53:19 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 13:53:20 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 13:53:20 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 13:53:20 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:13:42 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 14:13:42 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:13:42 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 14:13:42 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 14:13:42 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 14:14:21 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:14:50 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (c535838f3569815d9721398925fd29fb)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 14:14:50 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:14:50 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 14:14:51 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 14:14:52 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:14:52 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:14:52 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:14:53 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:14:53 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:14:54 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:14:54 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:14:54 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:14:54 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:14:55 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:14:55 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:14:55 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:14:55 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:14:55 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:15:17 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 14:15:17 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:15:17 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 14:15:17 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 14:15:17 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 14:16:00 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:16:16 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (7e382eb48c5dbbfe8020bfb4f13d542c)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 14:16:16 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:16:16 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 14:16:17 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 14:16:17 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:16:18 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:16:18 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:16:18 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:16:19 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:16:19 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:16:19 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:16:20 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:16:20 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:16:20 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:16:20 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:16:21 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:16:21 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:16:21 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:17:34 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 14:17:34 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:17:34 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 14:17:34 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 14:17:34 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 14:17:47 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:17:57 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (5d588b5eac8649a5e75629d8d3e37f6a)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 14:17:57 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:17:57 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 14:17:57 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 14:17:58 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:17:59 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:17:59 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:17:59 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:18:00 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:18:00 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:18:00 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:18:00 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:18:01 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:18:01 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:18:01 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:18:01 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:18:01 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:18:01 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:19:04 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 14:19:04 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:19:04 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 14:19:04 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 14:19:04 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 14:19:23 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:19:36 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (85da93ba3649196e37f9a39e9a9fcb77)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 14:19:36 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:19:36 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 14:19:37 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 14:19:38 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:19:39 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:19:39 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:19:39 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:19:40 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:19:40 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:19:40 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:19:40 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:19:41 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:19:41 INFO  JavaScriptHelper:17 - JS helper is initialised
+2018-10-16 14:19:41 INFO  JavaScriptHelper:54 - Scrolling down vertically
+2018-10-16 14:19:42 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:19:42 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:19:42 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:21:42 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 14:21:42 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:21:42 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 14:21:42 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 14:21:42 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 14:21:58 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:22:06 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (ee3904cd2b72caad114f2dfd117e870c)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 14:22:07 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:22:07 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 14:22:07 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 14:22:08 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:22:09 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 14:22:09 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (ee3904cd2b72caad114f2dfd117e870c)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 14:22:25 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:22:25 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:22:26 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:22:34 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 14:22:34 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (ee3904cd2b72caad114f2dfd117e870c)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 14:22:35 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:22:35 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:22:35 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:22:42 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 14:22:42 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (ee3904cd2b72caad114f2dfd117e870c)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 14:22:44 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:22:45 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:22:45 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:22:45 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:23:10 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 14:23:10 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:23:10 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 14:23:10 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 14:23:10 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 14:23:26 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:23:35 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (e9e992f7230cfdfe9bd3beb86765ce54)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 14:23:35 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:23:35 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 14:23:36 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 14:23:37 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:23:37 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 14:23:37 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (e9e992f7230cfdfe9bd3beb86765ce54)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 14:23:53 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:23:54 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:23:54 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:24:01 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 14:24:01 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (e9e992f7230cfdfe9bd3beb86765ce54)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 14:24:02 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:24:03 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:24:03 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:24:43 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 14:24:43 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (e9e992f7230cfdfe9bd3beb86765ce54)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 14:24:44 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:24:44 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:24:44 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 14:24:44 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 14:34:05 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-16 14:34:05 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:34:05 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 14:34:05 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 14:34:05 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 14:34:06 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 14:34:30 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:34:39 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (05ca97b5471674cf28222fdf6b0c6154)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 14:34:39 INFO  WaitHelper:156 - element is visible now
+2018-10-16 14:34:39 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 14:34:40 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 14:34:40 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-16 14:36:21 INFO  TestBase:135 - Initialize Web driver: 1552326679
+2018-10-16 14:36:21 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 14:36:21 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 14:36:21 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 14:36:21 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 14:36:22 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 15:00:49 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 15:00:49 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 15:00:49 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 15:00:49 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 15:00:49 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 15:01:10 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 15:01:21 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6577d283cda5900e0ac53c0924f408d9)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 15:01:21 INFO  WaitHelper:156 - element is visible now
+2018-10-16 15:01:21 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 15:01:22 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 15:01:23 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 15:01:24 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 15:01:24 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6577d283cda5900e0ac53c0924f408d9)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 15:01:40 INFO  WaitHelper:156 - element is visible now
+2018-10-16 15:01:41 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 15:01:41 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 15:01:49 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 15:01:49 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6577d283cda5900e0ac53c0924f408d9)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 15:01:49 INFO  WaitHelper:156 - element is visible now
+2018-10-16 15:01:50 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 15:01:50 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 15:47:04 INFO  TestBase:135 - Initialize Web driver: 557725225
+2018-10-16 15:47:04 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 15:47:04 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 15:47:05 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 15:47:05 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 15:48:00 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 15:49:40 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 15:49:41 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (76d913f3f0c8ec9315b4e72773671142)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 15:49:42 INFO  WaitHelper:156 - element is visible now
+2018-10-16 15:50:49 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-16 15:50:49 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 15:50:49 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 15:50:49 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 15:50:49 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 15:50:51 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 15:51:16 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 15:51:38 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (fe1b716abef1b41f241b3b8d7442f3ff)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 15:51:38 INFO  WaitHelper:156 - element is visible now
+2018-10-16 15:51:38 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 15:51:40 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 15:51:40 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-16 15:54:20 INFO  TestBase:135 - Initialize Web driver: 557725225
+2018-10-16 15:54:20 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 15:54:20 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 15:54:20 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 15:54:21 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 15:55:06 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-16 16:02:37 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 16:02:37 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:02:37 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 16:02:37 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 16:02:37 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 16:02:44 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:02:44 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 16:04:43 INFO  TestBase:135 - Initialize Web driver: 1408974251
+2018-10-16 16:04:43 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:04:43 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 16:04:44 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 16:04:44 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 16:04:45 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 16:13:33 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 16:13:33 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:13:33 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 16:13:33 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 16:13:33 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 16:13:35 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 16:18:03 INFO  TestBase:135 - Initialize Web driver: 1408974251
+2018-10-16 16:18:03 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:18:03 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 16:18:03 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 16:18:03 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 16:18:04 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 16:20:41 INFO  TestBase:135 - Initialize Web driver: 1408974251
+2018-10-16 16:20:41 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:20:41 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 16:20:41 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 16:20:41 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 16:21:04 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:21:08 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 16:21:36 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 16:21:36 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:21:36 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 16:21:36 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 16:21:36 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 16:21:37 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 16:24:36 INFO  TestBase:135 - Initialize Web driver: 1408974251
+2018-10-16 16:24:36 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:24:36 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 16:24:36 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 16:24:36 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 16:24:44 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:24:45 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 16:25:42 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 16:25:42 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:25:42 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 16:25:42 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 16:25:42 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 16:25:48 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:25:52 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 16:26:15 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-16 16:26:15 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:26:15 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-16 16:26:15 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-16 16:26:15 INFO  WaitHelper:144 - Page is loaded
+2018-10-16 16:26:37 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-16 16:26:54 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (886c0d6bb6945c87e7b9028129ef7850)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-16 16:26:54 INFO  WaitHelper:156 - element is visible now
+2018-10-16 16:26:54 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-16 16:26:55 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-16 16:26:56 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 16:26:56 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 16:26:56 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (886c0d6bb6945c87e7b9028129ef7850)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 16:27:13 INFO  WaitHelper:156 - element is visible now
+2018-10-16 16:27:14 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 16:27:14 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 16:27:22 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 16:27:22 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (886c0d6bb6945c87e7b9028129ef7850)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 16:27:23 INFO  WaitHelper:156 - element is visible now
+2018-10-16 16:27:24 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 16:27:24 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 16:27:32 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-16 16:27:32 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (886c0d6bb6945c87e7b9028129ef7850)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-16 16:27:33 INFO  WaitHelper:156 - element is visible now
+2018-10-16 16:27:33 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-16 16:27:33 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-16 16:27:33 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-25 20:21:50 INFO  TestBase:135 - Initialize Web driver: 352367347
+2018-10-25 20:21:50 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-25 20:21:50 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-25 20:21:50 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-25 20:21:50 INFO  WaitHelper:144 - Page is loaded
+2018-10-25 20:21:51 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2018-10-25 20:22:10 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-25 20:22:50 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (f0768de5d4b4271779fe2fbe8ea008b7)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-25 20:22:50 INFO  WaitHelper:156 - element is visible now
+2018-10-25 20:22:50 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-25 20:22:51 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-25 20:22:51 INFO  TestBase:94 - **************testLoginToApplicationFinished***************
+2018-10-25 20:33:39 INFO  TestBase:135 - Initialize Web driver: 2075809815
+2018-10-25 20:33:39 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-25 20:33:39 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-25 20:33:39 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-25 20:33:39 INFO  WaitHelper:144 - Page is loaded
+2018-10-25 20:34:06 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-25 20:35:01 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6d7a1f83faded13a33fa287fc7e73ee5)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-25 20:35:01 INFO  WaitHelper:156 - element is visible now
+2018-10-25 20:35:01 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-25 20:35:01 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-25 20:35:02 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-25 20:35:02 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-25 20:35:02 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6d7a1f83faded13a33fa287fc7e73ee5)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-25 20:35:56 INFO  WaitHelper:156 - element is visible now
+2018-10-25 20:35:56 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-25 20:35:56 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-25 20:36:03 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-25 20:36:03 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6d7a1f83faded13a33fa287fc7e73ee5)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-25 20:36:03 INFO  WaitHelper:156 - element is visible now
+2018-10-25 20:36:04 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-25 20:36:04 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-25 20:36:47 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-25 20:36:47 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (6d7a1f83faded13a33fa287fc7e73ee5)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-25 20:36:48 INFO  WaitHelper:156 - element is visible now
+2018-10-25 20:36:49 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-25 20:36:49 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-25 20:36:49 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-25 21:02:28 INFO  TestBase:135 - Initialize Web driver: 1408974251
+2018-10-25 21:02:28 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-25 21:02:28 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2018-10-25 21:02:28 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2018-10-25 21:02:28 INFO  WaitHelper:144 - Page is loaded
+2018-10-25 21:02:40 INFO  WaitHelper:29 - Wait helper obj created
+2018-10-25 21:03:32 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (9f5f1a767efbdf8c8191e59412a2fded)] -> xpath: //*[@id="gwt-debug-UserLoginView-loginButton"]] for :8000 seconds
+2018-10-25 21:03:33 INFO  WaitHelper:156 - element is visible now
+2018-10-25 21:03:33 INFO  TestBase:168 - capturing ui navigation screen...
+2018-10-25 21:03:33 INFO  TestBase:190 - excel location D:\eclipse_work_space\uiFramework\src\main\java\com\uiFramework\prive\slyaws\helper\resource\TestData\testData.xlsx
+2018-10-25 21:03:33 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-25 21:03:34 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-25 21:03:34 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (9f5f1a767efbdf8c8191e59412a2fded)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-25 21:03:55 INFO  WaitHelper:156 - element is visible now
+2018-10-25 21:04:16 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-25 21:04:16 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-25 21:04:35 INFO  VerificationHelper:22 - element is present and displayed
+2018-10-25 21:04:35 INFO  WaitHelper:153 - waiting for :[[ChromeDriver: chrome on XP (9f5f1a767efbdf8c8191e59412a2fded)] -> xpath: //*[@id="gwt-debug-MyMaterialTopBarView-logoutAnchor"]/i] for :8000 seconds
+2018-10-25 21:04:36 INFO  WaitHelper:156 - element is visible now
+2018-10-25 21:04:36 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-25 21:04:36 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-25 21:04:37 INFO  TestBase:94 - **************loginTestFinished***************
+2018-10-25 21:04:37 INFO  TestBase:76 - **************loginTestStarted***************
+2018-10-25 21:04:37 INFO  TestBase:94 - **************loginTestFinished***************
