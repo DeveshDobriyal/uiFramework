@@ -45,7 +45,7 @@ import com.uiFramework.prive.slyaws.pageObject.RegistrationPage;*/
 import com.uiFramework.prive.slyaws.utils.ExtentManager;
 /**
  * 
- * @author Devesh Dobriyal
+ * @author Devesh Dobriyal.
  *
  */
 public class TestBase {
