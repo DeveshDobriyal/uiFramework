@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite guice-stage="DEVELOPMENT" name="Failed suite [All Test]">
-  <test thread-count="5" name="LoginTestScenarios(failed)">
+<suite thread-count="2" guice-stage="DEVELOPMENT" name="Failed suite [All Test]" parallel="tests">
+  <test thread-count="2" name="LoginTestScenarios(failed)" parallel="tests">
     <classes>
-      <class name="com.uiFramework.prive.slyaws.testScripts.LoginTestScenarios">
+      <class name="com.uiFramework.prive.slyaws.testScripts.LoginTest">
         <methods>
-          <include name="beforeClass"/>
           <include name="beforeMethod"/>
           <include name="beforeSuite"/>
           <include name="beforeTest"/>
-          <include name="loginTest" invocation-numbers="2 3"/>
           <include name="afterTest"/>
+          <include name="testLoginToApplication"/>
           <include name="afterMethod"/>
         </methods>
-      </class> <!-- com.uiFramework.prive.slyaws.testScripts.LoginTestScenarios -->
+      </class> <!-- com.uiFramework.prive.slyaws.testScripts.LoginTest -->
     </classes>
   </test> <!-- LoginTestScenarios(failed) -->
+  <test thread-count="2" name="LoginTest(failed)" parallel="tests">
+    <classes>
+      <class name="com.uiFramework.prive.slyaws.testScripts.LoginTest">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="testLoginToApplication"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.uiFramework.prive.slyaws.testScripts.LoginTest -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
 </suite> <!-- Failed suite [All Test] -->

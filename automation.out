@@ -1351,3 +1351,106 @@ Driver info: driver.version: ChromeDriver
 2018-10-25 21:04:37 INFO  TestBase:94 - **************loginTestFinished***************
 2018-10-25 21:04:37 INFO  TestBase:76 - **************loginTestStarted***************
 2018-10-25 21:04:37 INFO  TestBase:94 - **************loginTestFinished***************
+2019-06-10 23:46:28 INFO  TestBase:135 - Initialize Web driver: 352367347
+2019-06-10 23:46:28 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-10 23:46:28 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2019-06-10 23:46:28 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2019-06-10 23:46:28 INFO  WaitHelper:144 - Page is loaded
+2019-06-10 23:46:29 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2019-06-10 23:46:51 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-10 23:58:02 INFO  TestBase:135 - Initialize Web driver: 47612224
+2019-06-10 23:58:02 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-10 23:58:02 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2019-06-10 23:58:02 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2019-06-10 23:58:02 INFO  WaitHelper:144 - Page is loaded
+2019-06-10 23:58:03 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2019-06-10 23:58:05 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-10 23:59:23 INFO  TestBase:135 - Initialize Web driver: 47612224
+2019-06-10 23:59:23 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-10 23:59:23 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2019-06-10 23:59:23 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2019-06-10 23:59:23 INFO  WaitHelper:144 - Page is loaded
+2019-06-10 23:59:24 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2019-06-10 23:59:26 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:07:46 INFO  TestBase:135 - Initialize Web driver: 1230666854
+2019-06-11 00:07:46 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:07:46 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2019-06-11 00:07:46 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2019-06-11 00:07:46 INFO  WaitHelper:144 - Page is loaded
+2019-06-11 00:07:46 INFO  TestBase:135 - Initialize Web driver: 356639040
+2019-06-11 00:07:46 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:07:46 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2019-06-11 00:07:46 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2019-06-11 00:07:46 INFO  WaitHelper:144 - Page is loaded
+2019-06-11 00:07:47 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2019-06-11 00:07:47 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2019-06-11 00:07:49 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:07:49 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:16:51 INFO  TestBase:128 - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-K8QA0IJ', ip: '192.168.31.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver
+2019-06-11 00:16:51 INFO  TestBase:128 - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-K8QA0IJ', ip: '192.168.31.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver
+2019-06-11 00:20:32 INFO  TestBase:128 - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-K8QA0IJ', ip: '192.168.31.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver
+2019-06-11 00:21:06 INFO  TestBase:128 - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-K8QA0IJ', ip: '192.168.31.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver
+2019-06-11 00:23:58 INFO  TestBase:128 - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-K8QA0IJ', ip: '192.168.31.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver
+2019-06-11 00:26:26 INFO  TestBase:128 - The driver executable does not exist: D:\eclipse_work_space_Frameworks\uiFramework\uiFramework\grid\chromedriver.exe
+2019-06-11 00:27:31 INFO  TestBase:128 - The driver executable does not exist: D:\eclipse_work_space_Frameworks\uiFramework\uiFramework\grid\chromedriver.exe
+2019-06-11 00:27:44 INFO  TestBase:128 - The driver executable does not exist: D:\eclipse_work_space_Frameworks\uiFramework\uiFramework\grid\chromedriver.exe
+2019-06-11 00:34:06 INFO  TestBase:128 - The driver executable does not exist: D:\eclipse_work_space_Frameworks\uiFramework\uiFramework\grid\chromedriver.exe
+2019-06-11 00:34:59 INFO  TestBase:128 - The driver executable does not exist: D:\eclipse_work_space_Frameworks\uiFrameworkgrid\chromedriver.exe
+2019-06-11 00:50:25 INFO  TestBase:135 - Initialize Web driver: 1178899578
+2019-06-11 00:50:25 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:50:25 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2019-06-11 00:50:25 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2019-06-11 00:50:25 INFO  WaitHelper:144 - Page is loaded
+2019-06-11 00:50:26 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2019-06-11 00:50:28 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:52:08 INFO  TestBase:135 - Initialize Web driver: 310138979
+2019-06-11 00:52:08 INFO  TestBase:135 - Initialize Web driver: 2085798309
+2019-06-11 00:52:08 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:52:08 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:52:08 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2019-06-11 00:52:08 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2019-06-11 00:52:08 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2019-06-11 00:52:08 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2019-06-11 00:52:08 INFO  WaitHelper:144 - Page is loaded
+2019-06-11 00:52:08 INFO  WaitHelper:144 - Page is loaded
+2019-06-11 00:52:09 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2019-06-11 00:52:09 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2019-06-11 00:52:11 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:52:11 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:52:35 INFO  TestBase:135 - Initialize Web driver: 1839931088
+2019-06-11 00:52:35 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:52:35 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2019-06-11 00:52:35 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2019-06-11 00:52:35 INFO  WaitHelper:144 - Page is loaded
+2019-06-11 00:52:35 INFO  TestBase:135 - Initialize Web driver: 1240140058
+2019-06-11 00:52:35 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:52:35 INFO  WaitHelper:38 - Implicit wait time set to :8000
+2019-06-11 00:52:35 INFO  WaitHelper:142 - waiting for a page to load for :SECONDS
+2019-06-11 00:52:35 INFO  WaitHelper:144 - Page is loaded
+2019-06-11 00:52:37 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2019-06-11 00:52:37 INFO  TestBase:76 - **************testLoginToApplicationStarted***************
+2019-06-11 00:52:38 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 00:52:39 INFO  WaitHelper:29 - Wait helper obj created
+2019-06-11 11:33:48 INFO  TestBase:128 - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-K8QA0IJ', ip: '192.168.31.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver
+2019-06-11 11:33:48 INFO  TestBase:128 - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-K8QA0IJ', ip: '192.168.31.112', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: RemoteWebDriver

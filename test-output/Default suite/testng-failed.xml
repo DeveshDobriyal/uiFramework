@@ -3,17 +3,16 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.uiFramework.prive.slyaws.testScripts.LoginTestScenarios">
+      <class name="com.uiFramework.prive.slyaws.testScripts.LoginTest">
         <methods>
-          <include name="beforeClass"/>
           <include name="beforeMethod"/>
           <include name="beforeSuite"/>
           <include name="beforeTest"/>
-          <include name="loginTest"/>
           <include name="afterTest"/>
+          <include name="testLoginToApplication"/>
           <include name="afterMethod"/>
         </methods>
-      </class> <!-- com.uiFramework.prive.slyaws.testScripts.LoginTestScenarios -->
+      </class> <!-- com.uiFramework.prive.slyaws.testScripts.LoginTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

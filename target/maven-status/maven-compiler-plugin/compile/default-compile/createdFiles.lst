@@ -30,6 +30,7 @@ com\uiFramework\prive\slyaws\utils\ExtentManager.class
 com\uiFramework\c.class
 com\uiFramework\prive\slyaws\helper\browserConfiguration\config\B.class
 com\uiFramework\prive\slyaws\helper\listener\ExtentListener.class
+com\uiFramework\prive\slyaws\testScripts\LoginTestScenarios.class
 com\uiFramework\prive\slyaws\helper\alert\AlertHelper.class
 com\uiFramework\prive\slyaws\pageObject\HomePage.class
 com\uiFramework\prive\slyaws\helper\browserConfiguration\IExploreBrowser.class
